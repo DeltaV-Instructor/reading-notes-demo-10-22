@@ -8,3 +8,5 @@
 ## Table of Contents 
 
 *These are links to my 102 notes*
+
+- [Read 01](class-01.md)
